@@ -1,0 +1,274 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 8 260.35 198.12 270 N X2 691313510003 ;0=2,1=8.5000
+PRP Manufacturer 'Würth Elektronik'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo '691313510003'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '732-2071-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 260.35 193.04 270 N 1 2 X2-1
+TOP 1 260.35 198.12 270 N 8 11 X2-2
+TOP 2 260.35 203.2 270 N 9 1 X2-3
+#
+# CMP 1
+CMP 7 228.6 198.12 0 N X1 61300611021 ;0=2,1=2.5400
+PRP Manufacturer 'Würth Elektronik'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo '61300611021'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '732-5339-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 228.6 204.47 0 N 0 1 X1-1
+TOP 1 228.6 201.93 0 N 7 1 X1-2
+TOP 2 228.6 199.39 0 N 2 0 X1-3
+TOP 3 228.6 196.85 0 N 6 0 X1-4
+TOP 4 228.6 194.31 0 N 8 12 X1-5
+TOP 5 228.6 191.77 0 N 10 0 X1-6
+#
+# CMP 2
+CMP 4 238.76 193.04 90 N U1 THVD1429 ;0=1,1=1.7500
+PRP Manufacturer 'Texas Instruments'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'THVD1429DR'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '296-THVD1429DRCT-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 236.0349991 194.945 270 N 2 2 U1-1
+TOP 1 236.0349991 193.675 270 N 5 2 U1-2
+TOP 2 236.0349991 192.405 270 N 5 1 U1-3
+TOP 3 236.0349991 191.135 270 N 6 2 U1-4
+TOP 4 241.48499836 191.135 270 N 8 21 U1-5
+TOP 5 241.48499836 192.405 270 N 1 7 U1-6
+TOP 6 241.48499836 193.675 270 N 9 7 U1-7
+TOP 7 241.48499836 194.945 270 N 10 7 U1-8
+#
+# CMP 3
+CMP 1 232.41 201.93 0 N R4 10K ;0=1,1=0.7000
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'RC0805FR-0710KL'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '311-10.0KCRCT-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 231.40999946 201.93 270 N 7 2 R4-1
+TOP 1 233.41000054 201.93 270 N 8 19 R4-2
+#
+# CMP 4
+CMP 2 245.11 198.12 90 N R3 120R ;0=1,1=0.7000
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'RC1206FR-07120RL'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '311-120FRCT-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 245.11 199.66999944 0 N 9 6 R3-1
+TOP 1 245.11 196.57000056 0 N 3 1 R3-2
+#
+# CMP 5
+CMP 1 246.38 191.77 90 N R2 10K ;0=1,1=0.7000
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'RC0805FR-0710KL'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '311-10.0KCRCT-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 246.38 192.77000054 0 N 1 3 R2-1
+TOP 1 246.38 190.76999946 0 N 10 1 R2-2
+#
+# CMP 6
+CMP 1 246.38 204.47 90 N R1 10K ;0=1,1=0.7000
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'RC0805FR-0710KL'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '311-10.0KCRCT-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 246.38 205.47000054 0 N 8 13 R1-1
+TOP 1 246.38 203.46999946 0 N 9 2 R1-2
+#
+# CMP 7
+CMP 1 232.41 196.85 180 N R7 10K ;0=1,1=0.7000
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'RC0805FR-0710KL'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '311-10.0KCRCT-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 233.41000054 196.85 90 N 8 14 R7-1
+TOP 1 231.40999946 196.85 90 N 6 1 R7-2
+#
+# CMP 8
+CMP 1 232.41 199.39 180 N R6 10K ;0=1,1=0.7000
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'RC0805FR-0710KL'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '311-10.0KCRCT-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 233.41000054 199.39 90 N 10 2 R6-1
+TOP 1 231.40999946 199.39 90 N 2 1 R6-2
+#
+# CMP 9
+CMP 1 232.41 204.47 180 N R5 10K ;0=1,1=0.7000
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'RC0805FR-0710KL'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '311-10.0KCRCT-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 233.41000054 204.47 90 N 4 1 R5-1
+TOP 1 231.40999946 204.47 90 N 10 3 R5-2
+#
+# CMP 10
+CMP 5 238.76 204.47 90 N Q1 BSS138 ;0=1,1=1.2000
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'BSS138LT3G'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) 'BSS138LT3GOSCT-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 237.60999976 205.42000064 0 N 6 3 Q1-1
+TOP 1 237.60999976 203.51999936 0 N 8 22 Q1-2
+TOP 2 239.91000024 204.47 180 N 4 2 Q1-3
+#
+# CMP 11
+CMP 6 256.54 234.95 270 N J3 61300311121 ;0=2,1=8.5400
+PRP Manufacturer 'Würth Elektronik'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo '61300311121'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '732-5316-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 256.54 195.58 270 N 1 1 J3-1
+TOP 1 256.54 198.12 270 N 8 10 J3-2
+TOP 2 256.54 200.66 270 N 9 0 J3-3
+#
+# CMP 12
+CMP 6 248.92 234.95 270 N J2 61300311121 ;0=2,1=8.5400
+PRP Manufacturer 'Würth Elektronik'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo '61300311121'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '732-5316-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 248.92 195.58 270 N 3 0 J2-1
+TOP 1 248.92 198.12 270 N 1 0 J2-2
+TOP 2 248.92 200.66 270 N 0 0 J2-3
+#
+# CMP 13
+CMP 6 275.59 200.66 0 N J1 61300311121 ;0=2,1=8.5400
+PRP Manufacturer 'Würth Elektronik'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo '61300311121'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '732-5316-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 236.22 200.66 0 N 7 0 J1-1
+TOP 1 238.76 200.66 0 N 5 0 J1-2
+TOP 2 241.3 200.66 0 N 4 0 J1-3
+#
+# CMP 14
+CMP 3 252.73 191.77 90 N D3 SMAJ12.0CA ;0=1,1=2.2900
+PRP Manufacturer 'Micro Commercial Co'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'SMAJ12CA-TP'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) 'SMAJ12CA-TPMSCT-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 252.73 193.675 0 N 1 6 D3-1
+TOP 1 252.73 189.865 0 N 8 20 D3-2
+#
+# CMP 15
+CMP 3 252.73 198.12 90 N D2 SMAJ6.5CA ;0=1,1=2.2900
+PRP Manufacturer 'Micro Commercial Co'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'SMAJ6.5CA-TP'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) 'SMAJ6.5CA-TPMSCT-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 252.73 200.025 0 N 9 3 D2-1
+TOP 1 252.73 196.215 0 N 1 4 D2-2
+#
+# CMP 16
+CMP 3 252.73 204.47 90 N D1 SMAJ12.0CA ;0=1,1=2.2900
+PRP Manufacturer 'Micro Commercial Co'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'SMAJ12CA-TP'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) 'SMAJ12CA-TPMSCT-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 252.73 206.375 0 N 8 15 D1-1
+TOP 1 252.73 202.565 0 N 9 4 D1-2
+#
+# CMP 17
+CMP 0 248.92 191.77 90 N C2 100p ;0=1,1=1.4500
+PRP Manufacturer 'Murata Electronics'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'GRM21A5C2E101FW01D'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '490-GRM21A5C2E101FW01DCT-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 248.92 192.67000074 0 N 1 5 C2-1
+TOP 1 248.92 190.8700018 0 N 10 6 C2-2
+#
+# CMP 18
+CMP 0 248.92 204.47 90 N C1 100p ;0=1,1=1.4500
+PRP Manufacturer 'Murata Electronics'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'GRM21A5C2E101FW01D'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '490-GRM21A5C2E101FW01DCT-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 248.92 205.37000074 0 N 8 16 C1-1
+TOP 1 248.92 203.5700018 0 N 9 5 C1-2
+#
+# CMP 19
+CMP 0 241.3 196.85 0 N C3 100n ;0=1,1=1.4500
+PRP Manufacturer 'Murata Electronics'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'GCM21BR91H104KA37L'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '490-11165-1-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 240.39999926 196.85 270 N 10 4 C3-1
+TOP 1 242.1999982 196.85 270 N 8 17 C3-2
+#
+# CMP 20
+CMP 0 232.41 191.77 180 N C4 10u ;0=1,1=1.4500
+PRP Manufacturer 'Taiyo Yuden'
+PRP Manufacturer_Constraint ''
+PRP Manufacturer_PartNo 'EMK212BBJ106KGHT'
+PRP Supplier_1_(Info) 'Digi-Key'
+PRP Supplier_1_PartNo_(Info) '587-3320-1-ND'
+PRP Supplier_2_(Info) ''
+PRP Supplier_2_PartNo_(Info) ''
+TOP 0 233.31000074 191.77 90 N 8 18 C4-1
+TOP 1 231.5100018 191.77 90 N 10 5 C4-2
+#

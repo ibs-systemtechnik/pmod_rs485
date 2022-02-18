@@ -1,0 +1,34 @@
+Altium Designer Pick and Place Locations
+C:\Temp\pmod_rs485\Project Outputs for PMOD_RS485\Pick Place\PMOD_RS485(Pick and Place).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23.05.21
+Time:       15:44
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment      Layer    Footprint         Center-X(mm) Center-Y(mm) Rotation Description                        
+X2         691313510003 TopLayer WE-691313510003   260.3500     198.1200     90       "TERM BLOCK HDR 3POS 90DEG 5.08MM" 
+X1         61300611021  TopLayer WE-61302021121    228.6000     198.1200     0        "CONN HEADER R/A 6POS 2.54MM"      
+U1         THVD1429     TopLayer SOIC-8            238.7600     193.0400     270      "IC TRANSCEIVER HALF 1/1 8SOIC"    
+R4         10K          TopLayer 0805-R            232.4100     201.9300     0        "RES SMD 10K OHM 1% 1/8W 0805"     
+R3         120R         TopLayer 1206-R            245.1100     198.1200     270      "RES SMD 120 OHM 1% 1/4W 1206"     
+R2         10K          TopLayer 0805-R            246.3800     191.7700     270      "RES SMD 10K OHM 1% 1/8W 0805"     
+R1         10K          TopLayer 0805-R            246.3800     204.4700     270      "RES SMD 10K OHM 1% 1/8W 0805"     
+R7         10K          TopLayer 0805-R            232.4100     196.8500     180      "RES SMD 10K OHM 1% 1/8W 0805"     
+R6         10K          TopLayer 0805-R            232.4100     199.3900     180      "RES SMD 10K OHM 1% 1/8W 0805"     
+R5         10K          TopLayer 0805-R            232.4100     204.4700     180      "RES SMD 10K OHM 1% 1/8W 0805"     
+Q1         BSS138       TopLayer SOT23-3           238.7600     204.4700     270      "MOSFET N-CH 50V 200MA SOT-23"     
+J3         61300311121  TopLayer WE-61300311121    256.5400     198.1200     90       "CONN HEADER VERT 3POS 2.54MM"     
+J2         61300311121  TopLayer WE-61300311121    248.9200     198.1200     90       "CONN HEADER VERT 3POS 2.54MM"     
+J1         61300311121  TopLayer WE-61300311121    238.7600     200.6600     0        "CONN HEADER VERT 3POS 2.54MM"     
+D3         SMAJ12.0CA   TopLayer SMA-BIDIRECTIONAL 252.7300     191.7700     270      "TVS DIODE 12V 19.9V DO214AC"      
+D2         SMAJ6.5CA    TopLayer SMA-BIDIRECTIONAL 252.7300     198.1200     270      "TVS DIODE 6.5V 11.2V DO214AC"     
+D1         SMAJ12.0CA   TopLayer SMA-BIDIRECTIONAL 252.7300     204.4700     270      "TVS DIODE 12V 19.9V DO214AC"      
+C2         100p         TopLayer 0805-C            248.9200     191.7700     270      "CAP CER 100PF 250V C0G/NP0 0805"  
+C1         100p         TopLayer 0805-C            248.9200     204.4700     270      "CAP CER 100PF 250V C0G/NP0 0805"  
+C3         100n         TopLayer 0805-C            241.3000     196.8500     0        "CAP CER 0.1UF 50V X8R 0805"       
+C4         10u          TopLayer 0805-C            232.4100     191.7700     180      "CAP CER 10UF 16V X5R 0805"        

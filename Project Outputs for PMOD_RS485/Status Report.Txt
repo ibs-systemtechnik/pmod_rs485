@@ -1,0 +1,10 @@
+Output: PMOD_RS485(STEP Files)
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [PMOD_RS485.PcbDoc]
+   Generated File[PMOD_RS485(STEP Files).step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:44:13 On 23.05.2021
